@@ -1,1 +1,3 @@
-# Keras-of-corrosion-with-oli
+# Corrosion rate with DNN model(Keras)
+
+#Summary
