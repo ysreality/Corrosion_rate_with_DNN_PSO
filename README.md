@@ -1,4 +1,4 @@
-# Corrosion rate with DNN model(Keras)
+# Corrosion rate with DNN model and PSO optimize(Keras)
 
 ## Summary
 
